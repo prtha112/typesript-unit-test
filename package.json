@@ -1,0 +1,21 @@
+{
+  "name": "typescript-unit-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/prtha112/typesript-unit-test.git",
+  "license": "MIT",
+  "scripts": {
+    "start": "node dist/index.js",
+    "dev": "nodemon src/index.ts",
+    "build": "tsc",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.0.1",
+    "jest": "^27.1.0",
+    "nodemon": "^2.0.12",
+    "ts-jest": "^27.0.5",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.2"
+  }
+}
