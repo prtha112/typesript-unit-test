@@ -1,18 +1,18 @@
 # typesript-unit-test
 Learning unit test with typescript.
 
-yarn init -y__
-yarn add -D typescript__
+yarn init -y <br />
+yarn add -D typescript <br />
 
-npx tsc --init__
-yarn add -D ts-node nodemon__
+npx tsc --init <br />
+yarn add -D ts-node nodemon <br />
 
-yarn dev__
-yarn build__
-yarn start__
+yarn dev <br />
+yarn build <br />
+yarn start <br />
 
-yarn add -D jest__
-yarn add -D jest @types/jest ts-jest__
-yarn ts-jest config:init__
+yarn add -D jest <br />
+yarn add -D jest @types/jest ts-jest <br />
+yarn ts-jest config:init <br />
 
 link: https://ichi.pro/th/swn-thi-4-node-js-express-typescript-kar-thdsxb-hnwy-dwy-jest-90178228844272
